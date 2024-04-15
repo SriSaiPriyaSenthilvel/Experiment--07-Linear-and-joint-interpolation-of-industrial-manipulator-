@@ -34,40 +34,16 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
+DART studio screen shots for linear interpolation and joint interpolation 
 
-### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
+![322419305-6b34ff46-7656-4900-b9b6-e655189cbb6d](https://github.com/SriSaiPriyaSenthilvel/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119475702/550dbab3-406a-4e04-99d9-18ab556fc581)
 
 ### Robot movements 
 
+![322419438-34a45256-94d0-46b1-9944-4711e2f5e31c](https://github.com/SriSaiPriyaSenthilvel/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119475702/3c60a96d-a600-483f-85c2-9b08e7ace0f3)
 
+![322419487-aa41a4b0-4eb7-4360-9981-55ecad2e0c0b](https://github.com/SriSaiPriyaSenthilvel/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119475702/b451f844-ca01-4a4f-b894-d570de82da15)
 
+### Results: 
 
-
-
-
-
-
-
-
-
-
-
-### Results:  
+Thus,linear and joint interpolation of industrial manipulator and program is executed.
